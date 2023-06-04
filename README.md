@@ -2,6 +2,7 @@
 Url: https://tesattackauth-production.up.railway.app/
 
 ### Register 
+Endpoint: ```/auth/register```
 request:
 ```
 {
@@ -19,6 +20,7 @@ response:
 ```
 
 ### Login
+Endpoint: ```/auth/login```
 request:
 ```
 {
